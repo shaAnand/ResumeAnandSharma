@@ -49,6 +49,7 @@ successful project implementation
 ## EDUCATION & CERTIFICATION
 - Master of Business Administration - University of Pittsburgh, Pittsburgh, PA April 2014
 - Bachelor of Technology, Information Technology, Sikkim Manipal Institute of Technology, India June 2004
+- AWS - Certified Solutions Architect Associate
 - AWS Certified Cloud Practitioner Aug 2023(expiry) [link]( https://www.certmetrics.com/amazon/public/transcript.aspx?transcript=0VPJM5F2CBVQ1Q9N)
 - Coursera Machine Learning by Stanford University  [link](https://www.coursera.org/account/accomplishments/certificate/GBM9TSLNNTSF)
 - AI For Everyone by DeepLearning.AI [link](https://www.coursera.org/account/accomplishments/verify/PWLB69Z6DRF2)
